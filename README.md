@@ -1,4 +1,5 @@
 # Proyecto hecho con ia
+Se uso como base una serie de requerimientos y la implementacion deseada, con el proyecto base inicializado con spring initializr y agregadas varias librerias
 
 ## Estos fueron los prompts usados para crear el proyecto:
 
